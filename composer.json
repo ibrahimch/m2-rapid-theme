@@ -7,7 +7,7 @@
     "MIT"
   ],
   "require": {
-    "divante-ltd/module-uikit": "dev-master"
+    "ibrahimch/m2-module-uikit": "dev-master"
   },
   "autoload": {
     "files": [
