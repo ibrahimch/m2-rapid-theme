@@ -1,16 +1,10 @@
 {
-  "name": "ibrahimch/theme-frontend-rapid",
+  "name": "ibrahimch/m2-module-uikit",
   "description": "Divante Rapid Theme for Magento 2",
   "version": "2.2.0",
   "type": "magento2-theme",
   "license": [
     "MIT"
-  ],
-  "authors": [
-    {
-      "name": "Bartosz Picho",
-      "email": "bpicho@divante.pl"
-    }
   ],
   "autoload": {
     "files": [
