@@ -6,9 +6,6 @@
   "license": [
     "MIT"
   ],
-  "require": {
-    "ibrahimch/m2-module-uikit": "dev-master"
-  },
   "autoload": {
     "files": [
       "registration.php"
